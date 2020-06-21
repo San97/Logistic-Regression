@@ -1,2 +1,2 @@
-This is branch A
+This is second branch A
 This is a new line
