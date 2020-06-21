@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is second branch A
+=======
+This is first branch A
+>>>>>>> c9feb14c8091cdc3ee5685a6a34c46ad7dc86dcb
 This is a new line
